@@ -24,26 +24,45 @@ Why this project matters:
     📋 Ensure data integrity and service performance.
 
 Built for:
+
 ✔️ Learning RestAssured in real-world scenarios
+
 ✔️ Demonstrating how to automate API testing professionally
+
 ✔️ Practicing TestNG structure and reporting
+
 🛠️ Tech Stack
+
 Technology	Purpose
+
 Java ☕	Programming Language
+
 RestAssured 🔗	API Testing Framework
+
 TestNG 🧪	Test Management and Reporting
+
 Maven 📦	Build and Dependency Management
+
 JSONPath 📑	Parse and Validate JSON Responses
+
 Git/GitHub 🐙	Version Control
+
 🔥 Project Highlights
 
 ✅ Authentication handled securely using API Key and Token 🔑
+
 ✅ Full CRUD testing for Trello objects (boards, lists, cards)
+
 ✅ Dynamic data creation — tests create, use, and clean up their own data
+
 ✅ Reusable Request Specifications — no duplicate code!
+
 ✅ Assertions on both Status Codes and Response Bodies
+
 ✅ Maven Integration for easy build and run
+
 ✅ Structured code with utilities and helpers to keep tests clean and readable
+
 🚀 Getting Started
 
 Spin up the project locally and run your tests easily! 🖥️
